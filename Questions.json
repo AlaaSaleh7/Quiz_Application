@@ -1,0 +1,74 @@
+[
+    {
+        "title":"Javascript is an _______ language?",
+        "answer_1":"Object Oriented",
+        "answer_2":"Based on Object",
+        "answer_3":"Procedural",
+        "answer_4":"None Of the Above",
+        "right_answer":"Object Oriented"
+    },
+    {
+        "title":"Which of the following keywords is used to define a variable in Javascript?",
+        "answer_1":"var",
+        "answer_2":"let",
+        "answer_3":"let & var",
+        "answer_4":"None Of the Above",
+        "right_answer":"let & var"
+    },
+    {
+        "title":"Which of the following methods is used to access HTML elements using Javascript?",
+        "answer_1":"getElementById()",
+        "answer_2":"getElementsByClassName()",
+        "answer_3":"getElementById() & getElementsByClassName()",
+        "answer_4":"None Of the Above",
+        "right_answer":"getElementById() & getElementsByClassName()"
+    },
+    {
+        "title":"Upon encountering empty statements, what does the Javascript Interpreter do?",
+        "answer_1":"Throw an error",
+        "answer_2":"Ignor the statement",
+        "answer_3":"Gives a wrong",
+        "answer_4":"None Of the Above",
+        "right_answer":"Ignor the statement"
+    },
+    {
+        "title":"Which of the following methods can be used to display data in some form using Javascript?",
+        "answer_1":"Console.log()",
+        "answer_2":"Windo.alert()",
+        "answer_3":"document.write()",
+        "answer_4":"All Of the Above",
+        "right_answer":"All Of the Above"
+    },
+    {
+        "title":"How can a datatype be declared to be a constant type?",
+        "answer_1":"const",
+        "answer_2":"let",
+        "answer_3":"var",
+        "answer_4":"constant",
+        "right_answer":"const"
+    },
+    {
+        "title":"When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "answer_1":"Boolean",
+        "answer_2":"Undefind",
+        "answer_3":"Object",
+        "answer_4":"Integer",
+        "right_answer":"Object"
+    },
+    {
+        "title":"What is the output of the following code snippet? console.log(NaN === NaN);",
+        "answer_1":"true",
+        "answer_2":"false",
+        "answer_3":"error",
+        "answer_4":"undefind",
+        "right_answer":"false"
+    },
+    {
+        "title":"What will be the output of the following code snippet? console.log(typeof(NaN))",
+        "answer_1":"Number",
+        "answer_2":"String",
+        "answer_3":"Object",
+        "answer_4":"None Of the Above",
+        "right_answer":"Number"
+    }
+]
